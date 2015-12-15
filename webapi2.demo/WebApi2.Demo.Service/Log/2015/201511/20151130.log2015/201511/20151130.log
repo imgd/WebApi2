@@ -1,0 +1,8 @@
+
+ 
+记录时间：2015-11-30 17:02:52,201 
+线程ID:[22] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 

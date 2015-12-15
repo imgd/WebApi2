@@ -1,0 +1,96 @@
+
+ 
+记录时间：2015-12-15 15:48:56,895 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 15:52:51,226 
+线程ID:[17] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求参数含有SQL注入字符。请求来源：http://localhost:54726/b/c/delete
+ 
+
+ 
+记录时间：2015-12-15 15:53:04,303 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 15:54:24,810 
+线程ID:[16] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 15:59:14,521 
+线程ID:[35] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 15:59:32,965 
+线程ID:[36] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 15:59:58,750 
+线程ID:[26] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 16:00:33,581 
+线程ID:[46] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求参数含有SQL注入字符。请求来源：http://localhost:54726/b/c?a=delete
+ 
+
+ 
+记录时间：2015-12-15 16:00:40,004 
+线程ID:[36] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 16:01:21,475 
+线程ID:[44] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求参数含有SQL注入字符。请求来源：http://localhost:54726/b/c/delete
+ 
+
+ 
+记录时间：2015-12-15 16:02:07,884 
+线程ID:[16] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-15 16:02:14,791 
+线程ID:[45] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求参数含有SQL注入字符。请求来源：http://localhost:54726/b/c/delete
+ 

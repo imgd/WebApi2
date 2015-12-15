@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.Compress", "WebApi2.Demo.Compress\WebApi2.Demo.Compress.csproj", "{184C5972-508A-43F5-BCCF-77E3B8A7F809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.UnitTest", "WebApi2.Demo.UnitTest\WebApi2.Demo.UnitTest.csproj", "{BEA38E99-8418-4A06-91EE-ED7D9966F789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.Inspector", "WebApi2.Demo.Inspector\WebApi2.Demo.Inspector.csproj", "{4474FA59-5133-4857-9D07-61ED0A3603C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.Common", "WebApi2.Demo.Common\WebApi2.Demo.Common.csproj", "{FD097711-0804-4185-B9A2-70054AAA0AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.Service", "WebApi2.Demo.Service\WebApi2.Demo.Service.csproj", "{036FE60F-BB8B-46BF-9008-C0BA408FD2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.OutputCache", "WebApi2.Demo.OutputCache\WebApi2.Demo.OutputCache.csproj", "{08E314DE-A9C2-465A-9B93-17764157682E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184C5972-508A-43F5-BCCF-77E3B8A7F809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184C5972-508A-43F5-BCCF-77E3B8A7F809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184C5972-508A-43F5-BCCF-77E3B8A7F809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184C5972-508A-43F5-BCCF-77E3B8A7F809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA38E99-8418-4A06-91EE-ED7D9966F789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA38E99-8418-4A06-91EE-ED7D9966F789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA38E99-8418-4A06-91EE-ED7D9966F789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA38E99-8418-4A06-91EE-ED7D9966F789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4474FA59-5133-4857-9D07-61ED0A3603C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4474FA59-5133-4857-9D07-61ED0A3603C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4474FA59-5133-4857-9D07-61ED0A3603C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4474FA59-5133-4857-9D07-61ED0A3603C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD097711-0804-4185-B9A2-70054AAA0AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD097711-0804-4185-B9A2-70054AAA0AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD097711-0804-4185-B9A2-70054AAA0AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD097711-0804-4185-B9A2-70054AAA0AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036FE60F-BB8B-46BF-9008-C0BA408FD2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036FE60F-BB8B-46BF-9008-C0BA408FD2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036FE60F-BB8B-46BF-9008-C0BA408FD2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036FE60F-BB8B-46BF-9008-C0BA408FD2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E314DE-A9C2-465A-9B93-17764157682E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E314DE-A9C2-465A-9B93-17764157682E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E314DE-A9C2-465A-9B93-17764157682E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E314DE-A9C2-465A-9B93-17764157682E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

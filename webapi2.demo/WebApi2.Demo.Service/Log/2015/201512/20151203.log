@@ -1,0 +1,285 @@
+
+ 
+记录时间：2015-12-03 10:51:55,597 
+线程ID:[10] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 10:51:55,597 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/c
+描述：已取消该操作。
+详细：
+ 
+System.OperationCanceledException: 已取消该操作。
+   在 System.Threading.CancellationToken.ThrowOperationCanceledException()
+   在 System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-03 11:27:40,491 
+线程ID:[59] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:28:10,105 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:32:41,838 
+线程ID:[9] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:37:56,736 
+线程ID:[5] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:41:46,973 
+线程ID:[13] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:43:17,945 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:44:51,538 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 11:48:19,672 
+线程ID:[18] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 13:20:26,162 
+线程ID:[20] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:48,023 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:52,162 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:52,973 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:54,590 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:56,076 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:57,125 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:58,080 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:58,938 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:19:59,773 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:00,458 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:01,220 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:01,938 
+线程ID:[32] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:02,717 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:03,416 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:04,108 
+线程ID:[32] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:04,810 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 15:20:05,493 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 16:05:39,060 
+线程ID:[48] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 16:09:44,707 
+线程ID:[58] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 17:19:59,867 
+线程ID:[3] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 17:22:30,491 
+线程ID:[11] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-03 17:24:28,248 
+线程ID:[6] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 

@@ -1,0 +1,826 @@
+
+ 
+记录时间：2015-12-04 13:23:17,643 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 13:23:23,063 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102018754593306221068_1449206603046&_=1449206603047
+ 
+
+ 
+记录时间：2015-12-04 13:23:28,814 
+线程ID:[7] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110209918459914624691_1449206608796&_=1449206608797
+ 
+
+ 
+记录时间：2015-12-04 13:50:14,796 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 13:50:14,900 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/a/b/d
+描述：未将对象引用设置到对象的实例。
+详细：
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 13:50:21,893 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 13:50:21,895 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/a/b/d
+描述：未将对象引用设置到对象的实例。
+详细：
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 13:58:56,320 
+线程ID:[17] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 13:59:04,568 
+线程ID:[17] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/d
+描述：未将对象引用设置到对象的实例。
+详细：
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 14:08:29,888 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 14:09:26,766 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/d
+描述：Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+详细：
+ 
+System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   在 WebApi2.Demo.Service.NamespaceHttpControllerSelector.SelectController(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\NamespaceHttpControllerSelector.cs:行号 107
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.IsJsonpRequest(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 130
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.ResponseWrite(HttpRequestMessage request, String contentmsg, HttpStatusCode statuscode) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 177
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 14:11:46,887 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 14:11:59,845 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/d
+描述：Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+详细：
+ 
+System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   在 WebApi2.Demo.Service.NamespaceHttpControllerSelector.SelectController(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\NamespaceHttpControllerSelector.cs:行号 107
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.IsJsonpRequest(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 130
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.ResponseWrite(HttpRequestMessage request, String contentmsg, HttpStatusCode statuscode) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 177
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 14:13:15,758 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 14:13:45,644 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/d
+描述：Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+详细：
+ 
+System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   在 WebApi2.Demo.Service.NamespaceHttpControllerSelector.SelectController(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\NamespaceHttpControllerSelector.cs:行号 107
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.IsJsonpRequest(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 130
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.ResponseWrite(HttpRequestMessage request, String contentmsg, HttpStatusCode statuscode) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 177
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 14:18:21,122 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 14:18:21,123 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/d
+描述：Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+详细：
+ 
+System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   在 WebApi2.Demo.Service.NamespaceHttpControllerSelector.SelectController(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\NamespaceHttpControllerSelector.cs:行号 107
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.IsJsonpRequest(HttpRequestMessage request) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 130
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.ResponseWrite(HttpRequestMessage request, String contentmsg, HttpStatusCode statuscode) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 177
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-12-04 14:45:28,837 
+线程ID:[7] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 14:47:12,586 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110205845833320636302_1449211614774&_=1449211614775
+ 
+
+ 
+记录时间：2015-12-04 14:47:16,460 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110206527700303122401_1449211636451&_=1449211636452
+ 
+
+ 
+记录时间：2015-12-04 14:48:01,331 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102007794533972628415_1449211681321&_=1449211681322
+ 
+
+ 
+记录时间：2015-12-04 14:48:46,332 
+线程ID:[10] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102032899312558583915_1449211721649&_=1449211721650
+ 
+
+ 
+记录时间：2015-12-04 14:52:23,227 
+线程ID:[15] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 14:57:03,980 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102008997003640979528_1449212217779&_=1449212217780
+ 
+
+ 
+记录时间：2015-12-04 14:57:07,255 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110204054028089158237_1449212227247&_=1449212227248
+ 
+
+ 
+记录时间：2015-12-04 14:57:16,166 
+线程ID:[7] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110200340663893148303_1449212236159&_=1449212236160
+ 
+
+ 
+记录时间：2015-12-04 14:57:17,281 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110200035779562313109636_1449212237275&_=1449212237276
+ 
+
+ 
+记录时间：2015-12-04 14:57:21,235 
+线程ID:[9] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110203739250493235886_1449212241226&_=1449212241227
+ 
+
+ 
+记录时间：2015-12-04 14:58:20,547 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110209822890134528279_1449212291692&_=1449212291693
+ 
+
+ 
+记录时间：2015-12-04 15:01:36,911 
+线程ID:[6] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110202420351265463978_1449212490228&_=1449212490229
+ 
+
+ 
+记录时间：2015-12-04 15:04:17,620 
+线程ID:[12] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020014449663227424026_1449212657608&_=1449212657609
+ 
+
+ 
+记录时间：2015-12-04 15:04:20,050 
+线程ID:[12] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110203245952401775867_1449212660041&_=1449212660042
+ 
+
+ 
+记录时间：2015-12-04 15:04:24,998 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110208280251619871706_1449212664984&_=1449212664985
+ 
+
+ 
+记录时间：2015-12-04 15:04:33,108 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110208904729742828634_1449212672718&_=1449212672719
+ 
+
+ 
+记录时间：2015-12-04 15:04:33,110 
+线程ID:[21] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110208904729742828634_1449212672718&_=1449212672720
+ 
+
+ 
+记录时间：2015-12-04 15:04:43,658 
+线程ID:[13] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110207120574614964426_1449212683646&_=1449212683647
+ 
+
+ 
+记录时间：2015-12-04 15:04:45,585 
+线程ID:[13] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020370293106418103_1449212685565&_=1449212685566
+ 
+
+ 
+记录时间：2015-12-04 15:04:46,896 
+线程ID:[21] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020013829196337610483_1449212686885&_=1449212686886
+ 
+
+ 
+记录时间：2015-12-04 15:04:48,171 
+线程ID:[21] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102025362864951603115_1449212688158&_=1449212688159
+ 
+
+ 
+记录时间：2015-12-04 15:04:49,395 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110201374933475162834_1449212689383&_=1449212689384
+ 
+
+ 
+记录时间：2015-12-04 15:04:50,828 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110209660267594736069_1449212690816&_=1449212690817
+ 
+
+ 
+记录时间：2015-12-04 15:04:52,225 
+线程ID:[21] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020015178178669884801_1449212692210&_=1449212692211
+ 
+
+ 
+记录时间：2015-12-04 15:05:00,004 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102043165688728913665_1449212699984&_=1449212699985
+ 
+
+ 
+记录时间：2015-12-04 15:06:31,362 
+线程ID:[22] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020711595629574731_1449212791352&_=1449212791353
+ 
+
+ 
+记录时间：2015-12-04 15:06:33,814 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110206961548561230302_1449212793805&_=1449212793806
+ 
+
+ 
+记录时间：2015-12-04 15:06:45,164 
+线程ID:[16] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110203621157805901021_1449212805150&_=1449212805151
+ 
+
+ 
+记录时间：2015-12-04 15:08:26,593 
+线程ID:[7] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102029222411778755486_1449212884641&_=1449212884642
+ 
+
+ 
+记录时间：2015-12-04 15:12:19,294 
+线程ID:[17] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110205566775952465832_1449213139094&_=1449213139095
+ 
+
+ 
+记录时间：2015-12-04 15:13:23,059 
+线程ID:[25] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110208776732992846519_1449213196391&_=1449213196392
+ 
+
+ 
+记录时间：2015-12-04 15:19:02,644 
+线程ID:[12] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110208309411094523966_1449213542482&_=1449213542483
+ 
+
+ 
+记录时间：2015-12-04 15:19:07,229 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020854898571735248_1449213547223&_=1449213547224
+ 
+
+ 
+记录时间：2015-12-04 15:19:16,367 
+线程ID:[35] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery1102007771790539845824_1449213556355&_=1449213556356
+ 
+
+ 
+记录时间：2015-12-04 15:19:47,659 
+线程ID:[12] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110203660822689998895_1449213583593&_=1449213583594
+ 
+
+ 
+记录时间：2015-12-04 15:22:09,086 
+线程ID:[23] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 15:23:54,600 
+线程ID:[35] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020762709334725514_1449213834590&_=1449213834591
+ 
+
+ 
+记录时间：2015-12-04 15:23:58,162 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery110209126903838478029_1449213838154&_=1449213838155
+ 
+
+ 
+记录时间：2015-12-04 15:24:01,115 
+线程ID:[21] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/a/b/d?callback=jQuery11020024590703193098307_1449213841106&_=1449213841107
+ 
+
+ 
+记录时间：2015-12-04 15:36:28,940 
+线程ID:[29] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:39:16,727 
+线程ID:[36] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:39:28,331 
+线程ID:[26] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:39:37,253 
+线程ID:[36] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:39:53,489 
+线程ID:[37] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:40:11,027 
+线程ID:[26] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:40:11,468 
+线程ID:[26] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:40:29,276 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:41:02,853 
+线程ID:[37] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:41:24,712 
+线程ID:[37] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:42:14,591 
+线程ID:[13] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:42:32,642 
+线程ID:[37] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:42:34,496 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:11,655 
+线程ID:[13] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:42,780 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:44,532 
+线程ID:[28] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:46,507 
+线程ID:[28] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:47,279 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:48,025 
+线程ID:[38] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:49,078 
+线程ID:[37] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:50,013 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:50,720 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:51,327 
+线程ID:[37] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:43:51,890 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:44:18,262 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:44:26,775 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:44:31,169 
+线程ID:[13] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-04 15:45:53,472 
+线程ID:[18] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 

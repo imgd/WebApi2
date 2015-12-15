@@ -1,0 +1,15 @@
+G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.csprojResolveAssemblyReference.cache
+G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.dll
+G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.pdb
+G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.dll
+G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.pdb
+H:\work\github\xm\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.csprojResolveAssemblyReference.cache
+H:\work\github\xm\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.dll
+H:\work\github\xm\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.pdb
+H:\work\github\xm\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.dll
+H:\work\github\xm\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.pdb
+G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.dll
+G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.pdb
+G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.csprojResolveAssemblyReference.cache
+G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.dll
+G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.pdb

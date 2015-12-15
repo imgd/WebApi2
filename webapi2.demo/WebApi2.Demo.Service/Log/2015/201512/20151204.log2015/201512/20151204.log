@@ -1,0 +1,36 @@
+
+ 
+记录时间：2015-12-04 13:51:36,017 
+线程ID:[5] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/a/b/d
+ 
+
+ 
+记录时间：2015-12-04 13:52:06,517 
+线程ID:[5] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/a/b/d
+描述：未将对象引用设置到对象的实例。
+详细：
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Service\Extend\GlobalActionFilterAttribute.cs:行号 47
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()

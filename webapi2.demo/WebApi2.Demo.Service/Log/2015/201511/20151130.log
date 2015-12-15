@@ -1,0 +1,344 @@
+
+ 
+记录时间：2015-11-30 09:49:23,106 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/test/getname
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 31
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:29:54,523 
+线程ID:[25] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 31
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:30:36,438 
+线程ID:[3] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 31
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:32:17,611 
+线程ID:[25] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/test/test/getname
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 31
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:32:22,155 
+线程ID:[25] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/test/test/getname
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 31
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:35:47,645 
+线程ID:[25] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1]请求错误,来源:http://127.0.0.1:81/test/test/getname
+描述：值不能为 null。
+参数名: source
+详细：
+ 
+System.ArgumentNullException: 值不能为 null。
+参数名: source
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 32
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:49:24,492 
+线程ID:[295] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/test/test/getname
+ 
+
+ 
+记录时间：2015-11-30 16:54:32,463 
+线程ID:[7] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/test/test/getname
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 38
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:55:21,761 
+线程ID:[11] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1]请求错误,来源:http://localhost:54726/test/test/getname
+描述：The given header was not found.
+详细：
+ 
+System.InvalidOperationException: The given header was not found.
+   在 System.Net.Http.Headers.HttpHeaders.GetValues(String name)
+   在 WebApi2.Demo.Inspector.WebApiInspector.IsPass() 位置 G:\mywork\其他项目\项目框架\webapi2.demo\WebApi2.Demo.Inspector\WebApiInspector.cs:行号 38
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.EdentityPass(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 83
+   在 WebApi2.Demo.Service.GlobalActionFilterAttribute.OnActionExecuting(HttpActionContext actionContext) 位置 G:\mywork\其他项目\项目框架\webapi2.demo\MvcApplication1\Extend\GlobalActionFilterAttribute.cs:行号 24
+   在 System.Web.Http.Filters.ActionFilterAttribute.OnActionExecutingAsync(HttpActionContext actionContext, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<ExecuteActionFilterAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+
+ 
+记录时间：2015-11-30 16:56:29,359 
+线程ID:[13] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/test/test/getname
+ 
+
+ 
+记录时间：2015-11-30 16:57:37,281 
+线程ID:[13] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:::1] 请求身份验证失败。请求来源：http://localhost:54726/test/test/getname
+ 
+
+ 
+记录时间：2015-11-30 16:58:15,149 
+线程ID:[41] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/test/test/getname
+ 
+
+ 
+记录时间：2015-11-30 16:59:58,383 
+线程ID:[41] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 
+
+ 
+记录时间：2015-11-30 17:00:45,839 
+线程ID:[32] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 
+
+ 
+记录时间：2015-11-30 17:01:56,090 
+线程ID:[35] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 
+
+ 
+记录时间：2015-11-30 17:01:57,610 
+线程ID:[8] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 
+
+ 
+记录时间：2015-11-30 17:02:22,698 
+线程ID:[32] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 
+
+ 
+记录时间：2015-11-30 17:02:24,079 
+线程ID:[41] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/inspector/inspector/createtoken?clientkey=xwXXtotJVI9CeXxSWXN4GTY9bpw23DeFTjg7O2vztTZmuj74hdwdtN4gNsFIm7
+ 
+
+ 
+记录时间：2015-11-30 17:03:25,376 
+线程ID:[31] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-30 17:03:41,751 
+线程ID:[41] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-30 17:04:26,681 
+线程ID:[15] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/test/test/getname
+ 
+
+ 
+记录时间：2015-11-30 17:14:30,223 
+线程ID:[27] 
+日志级别：  ERROR 
+相关类：logerror property: [(null)] - 
+相关描述：客户端[IP:127.0.0.1] 请求身份验证失败。请求来源：http://127.0.0.1:81/test/test/getage
+ 

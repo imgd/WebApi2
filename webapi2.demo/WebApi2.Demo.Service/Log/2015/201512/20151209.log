@@ -1,0 +1,64 @@
+
+ 
+记录时间：2015-12-09 16:22:08,715 
+线程ID:[10] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:22:10,530 
+线程ID:[10] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:22:11,216 
+线程ID:[10] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:22:11,857 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:22:12,416 
+线程ID:[12] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:22:13,075 
+线程ID:[10] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:23:25,203 
+线程ID:[14] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-12-09 16:23:31,060 
+线程ID:[20] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 

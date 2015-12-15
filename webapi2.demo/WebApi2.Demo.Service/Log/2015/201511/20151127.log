@@ -1,0 +1,64 @@
+
+ 
+记录时间：2015-11-27 13:52:10,027 
+线程ID:[3] 
+日志级别：  INFO  
+出错类：loginfo property: [(null)] - 
+错误描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 14:21:59,773 
+线程ID:[3] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 14:22:11,672 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 14:25:24,962 
+线程ID:[11] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 14:25:39,590 
+线程ID:[3] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 16:54:52,145 
+线程ID:[3] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 17:41:22,662 
+线程ID:[8] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
+
+ 
+记录时间：2015-11-27 17:41:40,670 
+线程ID:[7] 
+日志级别：  INFO  
+相关类：loginfo property: [(null)] - 
+相关描述：客户端调用了一次getname方法
+ 
