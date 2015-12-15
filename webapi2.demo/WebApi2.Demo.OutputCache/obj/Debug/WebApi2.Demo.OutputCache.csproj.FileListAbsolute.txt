@@ -13,3 +13,8 @@ G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\bin\
 G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.csprojResolveAssemblyReference.cache
 G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.dll
 G:\mywork\github\webapi2\webapi2.demo\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.pdb
+G:\mywork\github\webapi2\WebApi2\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.dll
+G:\mywork\github\webapi2\WebApi2\webapi2.demo\WebApi2.Demo.OutputCache\bin\Debug\WebApi2.Demo.OutputCache.pdb
+G:\mywork\github\webapi2\WebApi2\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.csprojResolveAssemblyReference.cache
+G:\mywork\github\webapi2\WebApi2\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.dll
+G:\mywork\github\webapi2\WebApi2\webapi2.demo\WebApi2.Demo.OutputCache\obj\Debug\WebApi2.Demo.OutputCache.pdb

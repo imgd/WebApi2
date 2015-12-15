@@ -110,24 +110,36 @@ namespace WebApi2.Demo.Service
         /// <returns></returns>
         private bool IsParametersSafe(HttpActionContext context)
         {
-            //获取传统context
-            HttpContextBase CON = (HttpContextBase)context.Request.Properties["MS_HttpContext"];
-            if (CON.IsNull())
+            //验证请求 路由参数合法性
+            //2015.12.15 create
+            IDictionary<string, object> routeDataValues = context.Request.GetRouteData().Values;
+            if (!routeDataValues.IsNull() && routeDataValues.Count > 0)
             {
-                return true;
+                foreach (var item in routeDataValues)
+                {
+                    if (!item.Value.ToString().IsSqlTextSafe())
+                        return false;
+                    else
+                        continue;
+                }
             }
-            HttpRequestBase request = CON.Request;
-            var method = request.HttpMethod.ToString().ToUpper();
 
-            NameValueCollection paras = method == "GET" ? request.QueryString : request.Form;
-            
-            foreach (string item in paras)
+            //验证上下文对象的querystring 和 from 对象中的参数合法性
+            HttpRequestBase request = ((HttpContextBase)context.Request.Properties["MS_HttpContext"]).Request;
+            NameValueCollection paras = request.HttpMethod.ToString().ToUpper() == "GET"
+                ? request.QueryString : request.Form;
+
+            if (!paras.IsNull() && paras.Count > 0)
             {
-                if (!paras[item].ToString().IsSqlTextSafe())
-                    return false;
-                else
-                    continue;
+                foreach (string item in paras)
+                {
+                    if (!paras[item].ToString().IsSqlTextSafe())
+                        return false;
+                    else
+                        continue;
+                }
             }
+
             return true;
         }
         private HttpResponseMessage ResponseWrite(string contentmsg, HttpStatusCode statuscode)

@@ -1,1 +1,2 @@
 G:\mywork\其他项目\项目框架\webapi2.demo\webapi2.demo\webapi2.demo\WebApi2.Demo.Client.JsonpTest2\obj\Debug\WebApi2.Demo.Client.JsonpTest.dll
+G:\mywork\github\webapi2\WebApi2\webapi2.demo\WebApi2.Demo.Client.JsonpTest2\obj\Debug\WebApi2.Demo.Client.JsonpTest.dll

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.Service", "Web
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.OutputCache", "WebApi2.Demo.OutputCache\WebApi2.Demo.OutputCache.csproj", "{08E314DE-A9C2-465A-9B93-17764157682E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Demo.Client.JsonpTest", "WebApi2.Demo.Client.JsonpTest2\WebApi2.Demo.Client.JsonpTest.csproj", "{75E94074-EB96-41CB-8A8E-CE70B8A3A3CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{08E314DE-A9C2-465A-9B93-17764157682E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E314DE-A9C2-465A-9B93-17764157682E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E314DE-A9C2-465A-9B93-17764157682E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E94074-EB96-41CB-8A8E-CE70B8A3A3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E94074-EB96-41CB-8A8E-CE70B8A3A3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E94074-EB96-41CB-8A8E-CE70B8A3A3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E94074-EB96-41CB-8A8E-CE70B8A3A3CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
